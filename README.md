@@ -8,7 +8,8 @@ I'm a full stack software engineer who enjoys solving problems and developing we
 
 - 📫 How to reach me: (jimmyphong12@gmail.com)
 
-Lets Connect~
+## Connect with me!
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/jimmyphong)
 &nbsp;
 <!--
