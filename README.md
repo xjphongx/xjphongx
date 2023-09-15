@@ -7,6 +7,10 @@ I'm a full stack software engineer who enjoys solving problems and developing we
 - 🌱 I’m currently learning JavaScript and React
 
 - 📫 How to reach me: (jimmyphong12@gmail.com)
+
+Lets Connect~
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/jimmyphong)
+&nbsp;
 <!--
 **xjphongx/xjphongx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
