@@ -1,6 +1,12 @@
 # 👋 Hello, I'm Jimmy Phong
 
-I'm a full stack software engineer who enjoys solving problems and developing web applications. I am currently in the process of honing my technical skill. When I am not coding or debugging, you can find me playing basketball :basketball_man: or walking my cat :smiley_cat:.
+I'm a full stack software engineer who enjoys solving problems and developing web applications. I am currently in the process of honing my technical skill! When I am not coding or debugging, you can find me playing basketball :basketball_man: or walking my cat :smiley_cat:.
+
+- 🔭 I’m currently working on [vanlife](https://github.com/xjphongx/van_life)
+  
+- 🌱 I’m currently learning JavaScript and React
+
+- 📫 How to reach me: (jimmyphong12@gmail.com)
 <!--
 **xjphongx/xjphongx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
