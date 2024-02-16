@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [vanlife](https://github.com/xjphongx/van_life) This is on hold.
 
-- 🌱 I’m currently learning **JavaScript, Python, React, and IT material**
+- 🌱 I’m currently learning **JavaScript, Python, React, and Selenium**
 
 - 📫 How to reach me **jimmyphong12@gmail.com**
 
