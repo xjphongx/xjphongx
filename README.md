@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Jimmy Phong</h1>
 <h3 align="center">I'm a full stack software engineer who enjoys solving problems and developing web applications. I am currently in the process of honing my technical skill! When I am not coding or debugging, you can find me playing basketball ⛹️‍♂️ or walking my cat 😺.</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, React, and Selenium**
+- 🌱 I’m currently learning **Java and Selenium**
 
 - 📫 How to reach me **jimmyphong12@gmail.com**
 
